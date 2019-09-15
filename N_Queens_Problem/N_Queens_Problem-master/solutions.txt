@@ -1,0 +1,24 @@
+Solution for 4x4 chessboard.
+Queens: 4.
+|x|Q|x|x|
+|x|x|x|Q|
+|Q|x|x|x|
+|x|x|Q|x|
+Took 0.0
+Solution for 5x5 chessboard.
+Queens: 5.
+|Q|x|x|x|x|
+|x|x|Q|x|x|
+|x|x|x|x|Q|
+|x|Q|x|x|x|
+|x|x|x|Q|x|
+Took 0.0
+Solution for 6x6 chessboard.
+Queens: 6.
+|x|Q|x|x|x|x|
+|x|x|x|Q|x|x|
+|x|x|x|x|x|Q|
+|Q|x|x|x|x|x|
+|x|x|Q|x|x|x|
+|x|x|x|x|Q|x|
+Took 0.010999917984008789
